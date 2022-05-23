@@ -9,6 +9,8 @@
 ## Description
   This repository shows the Smart Contracts used to launch an NFT Collection with the ability to whitelist users and airdrop NFTs to users.
 
+  The Smart Contract is setup to allow the owner to easily connect to a decentralised storage facility such as IPFS, Pinata etc...
+
 ## Requirements For Initial Setup
   Install NodeJS, should work with any node version below 16.5.0
   Install Hardhat.
